@@ -1,0 +1,426 @@
+{
+    "statistiche": {
+        "MAE_train": 6.031572986704524,
+        "MSE_train": 60.317211129596906,
+        "RMSE_train": 7.766415590837057,
+        "MAPE_train": 0.04261961474574983,
+        "R2_train": 0.2791758743626229,
+        "Spearman_train": 0.4699116451636825,
+        "MAE_test": 6.189272430017103,
+        "MSE_test": 62.4925565016729,
+        "RMSE_test": 7.905223368233999,
+        "MAPE_test": 0.04351143419814471,
+        "R2_test": 0.2572661674218216,
+        "Spearman_test": 0.4498443639895801
+    },
+    "modello": {
+        "class_name": "Sequential",
+        "config": {
+            "name": "sequential_1",
+            "layers": [
+                {
+                    "module": "keras.layers",
+                    "class_name": "InputLayer",
+                    "config": {
+                        "batch_input_shape": [
+                            null,
+                            5
+                        ],
+                        "dtype": "float32",
+                        "sparse": false,
+                        "ragged": false,
+                        "name": "dense_10_input"
+                    },
+                    "registered_name": null
+                },
+                {
+                    "module": "keras.layers",
+                    "class_name": "Dense",
+                    "config": {
+                        "name": "dense_10",
+                        "trainable": true,
+                        "dtype": "float32",
+                        "batch_input_shape": [
+                            null,
+                            5
+                        ],
+                        "units": 4,
+                        "activation": "linear",
+                        "use_bias": true,
+                        "kernel_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "GlorotUniform",
+                            "config": {
+                                "seed": null
+                            },
+                            "registered_name": null
+                        },
+                        "bias_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "Zeros",
+                            "config": {},
+                            "registered_name": null
+                        },
+                        "kernel_regularizer": null,
+                        "bias_regularizer": null,
+                        "activity_regularizer": null,
+                        "kernel_constraint": null,
+                        "bias_constraint": null
+                    },
+                    "registered_name": null,
+                    "build_config": {
+                        "input_shape": [
+                            null,
+                            5
+                        ]
+                    }
+                },
+                {
+                    "module": "keras.layers",
+                    "class_name": "Dense",
+                    "config": {
+                        "name": "dense_11",
+                        "trainable": true,
+                        "dtype": "float32",
+                        "units": 8,
+                        "activation": "relu",
+                        "use_bias": true,
+                        "kernel_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "GlorotUniform",
+                            "config": {
+                                "seed": null
+                            },
+                            "registered_name": null
+                        },
+                        "bias_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "Zeros",
+                            "config": {},
+                            "registered_name": null
+                        },
+                        "kernel_regularizer": null,
+                        "bias_regularizer": null,
+                        "activity_regularizer": null,
+                        "kernel_constraint": null,
+                        "bias_constraint": null
+                    },
+                    "registered_name": null,
+                    "build_config": {
+                        "input_shape": [
+                            null,
+                            4
+                        ]
+                    }
+                },
+                {
+                    "module": "keras.layers",
+                    "class_name": "Dense",
+                    "config": {
+                        "name": "dense_12",
+                        "trainable": true,
+                        "dtype": "float32",
+                        "units": 16,
+                        "activation": "relu",
+                        "use_bias": true,
+                        "kernel_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "GlorotUniform",
+                            "config": {
+                                "seed": null
+                            },
+                            "registered_name": null
+                        },
+                        "bias_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "Zeros",
+                            "config": {},
+                            "registered_name": null
+                        },
+                        "kernel_regularizer": null,
+                        "bias_regularizer": null,
+                        "activity_regularizer": null,
+                        "kernel_constraint": null,
+                        "bias_constraint": null
+                    },
+                    "registered_name": null,
+                    "build_config": {
+                        "input_shape": [
+                            null,
+                            8
+                        ]
+                    }
+                },
+                {
+                    "module": "keras.layers",
+                    "class_name": "Dense",
+                    "config": {
+                        "name": "dense_13",
+                        "trainable": true,
+                        "dtype": "float32",
+                        "units": 32,
+                        "activation": "relu",
+                        "use_bias": true,
+                        "kernel_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "GlorotUniform",
+                            "config": {
+                                "seed": null
+                            },
+                            "registered_name": null
+                        },
+                        "bias_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "Zeros",
+                            "config": {},
+                            "registered_name": null
+                        },
+                        "kernel_regularizer": null,
+                        "bias_regularizer": null,
+                        "activity_regularizer": null,
+                        "kernel_constraint": null,
+                        "bias_constraint": null
+                    },
+                    "registered_name": null,
+                    "build_config": {
+                        "input_shape": [
+                            null,
+                            16
+                        ]
+                    }
+                },
+                {
+                    "module": "keras.layers",
+                    "class_name": "Dense",
+                    "config": {
+                        "name": "dense_14",
+                        "trainable": true,
+                        "dtype": "float32",
+                        "units": 64,
+                        "activation": "relu",
+                        "use_bias": true,
+                        "kernel_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "GlorotUniform",
+                            "config": {
+                                "seed": null
+                            },
+                            "registered_name": null
+                        },
+                        "bias_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "Zeros",
+                            "config": {},
+                            "registered_name": null
+                        },
+                        "kernel_regularizer": null,
+                        "bias_regularizer": null,
+                        "activity_regularizer": null,
+                        "kernel_constraint": null,
+                        "bias_constraint": null
+                    },
+                    "registered_name": null,
+                    "build_config": {
+                        "input_shape": [
+                            null,
+                            32
+                        ]
+                    }
+                },
+                {
+                    "module": "keras.layers",
+                    "class_name": "Dense",
+                    "config": {
+                        "name": "dense_15",
+                        "trainable": true,
+                        "dtype": "float32",
+                        "units": 32,
+                        "activation": "relu",
+                        "use_bias": true,
+                        "kernel_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "GlorotUniform",
+                            "config": {
+                                "seed": null
+                            },
+                            "registered_name": null
+                        },
+                        "bias_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "Zeros",
+                            "config": {},
+                            "registered_name": null
+                        },
+                        "kernel_regularizer": null,
+                        "bias_regularizer": null,
+                        "activity_regularizer": null,
+                        "kernel_constraint": null,
+                        "bias_constraint": null
+                    },
+                    "registered_name": null,
+                    "build_config": {
+                        "input_shape": [
+                            null,
+                            64
+                        ]
+                    }
+                },
+                {
+                    "module": "keras.layers",
+                    "class_name": "Dense",
+                    "config": {
+                        "name": "dense_16",
+                        "trainable": true,
+                        "dtype": "float32",
+                        "units": 16,
+                        "activation": "relu",
+                        "use_bias": true,
+                        "kernel_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "GlorotUniform",
+                            "config": {
+                                "seed": null
+                            },
+                            "registered_name": null
+                        },
+                        "bias_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "Zeros",
+                            "config": {},
+                            "registered_name": null
+                        },
+                        "kernel_regularizer": null,
+                        "bias_regularizer": null,
+                        "activity_regularizer": null,
+                        "kernel_constraint": null,
+                        "bias_constraint": null
+                    },
+                    "registered_name": null,
+                    "build_config": {
+                        "input_shape": [
+                            null,
+                            32
+                        ]
+                    }
+                },
+                {
+                    "module": "keras.layers",
+                    "class_name": "Dense",
+                    "config": {
+                        "name": "dense_17",
+                        "trainable": true,
+                        "dtype": "float32",
+                        "units": 8,
+                        "activation": "relu",
+                        "use_bias": true,
+                        "kernel_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "GlorotUniform",
+                            "config": {
+                                "seed": null
+                            },
+                            "registered_name": null
+                        },
+                        "bias_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "Zeros",
+                            "config": {},
+                            "registered_name": null
+                        },
+                        "kernel_regularizer": null,
+                        "bias_regularizer": null,
+                        "activity_regularizer": null,
+                        "kernel_constraint": null,
+                        "bias_constraint": null
+                    },
+                    "registered_name": null,
+                    "build_config": {
+                        "input_shape": [
+                            null,
+                            16
+                        ]
+                    }
+                },
+                {
+                    "module": "keras.layers",
+                    "class_name": "Dense",
+                    "config": {
+                        "name": "dense_18",
+                        "trainable": true,
+                        "dtype": "float32",
+                        "units": 4,
+                        "activation": "relu",
+                        "use_bias": true,
+                        "kernel_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "GlorotUniform",
+                            "config": {
+                                "seed": null
+                            },
+                            "registered_name": null
+                        },
+                        "bias_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "Zeros",
+                            "config": {},
+                            "registered_name": null
+                        },
+                        "kernel_regularizer": null,
+                        "bias_regularizer": null,
+                        "activity_regularizer": null,
+                        "kernel_constraint": null,
+                        "bias_constraint": null
+                    },
+                    "registered_name": null,
+                    "build_config": {
+                        "input_shape": [
+                            null,
+                            8
+                        ]
+                    }
+                },
+                {
+                    "module": "keras.layers",
+                    "class_name": "Dense",
+                    "config": {
+                        "name": "dense_19",
+                        "trainable": true,
+                        "dtype": "float32",
+                        "units": 1,
+                        "activation": "linear",
+                        "use_bias": true,
+                        "kernel_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "GlorotUniform",
+                            "config": {
+                                "seed": null
+                            },
+                            "registered_name": null
+                        },
+                        "bias_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "Zeros",
+                            "config": {},
+                            "registered_name": null
+                        },
+                        "kernel_regularizer": null,
+                        "bias_regularizer": null,
+                        "activity_regularizer": null,
+                        "kernel_constraint": null,
+                        "bias_constraint": null
+                    },
+                    "registered_name": null,
+                    "build_config": {
+                        "input_shape": [
+                            null,
+                            4
+                        ]
+                    }
+                }
+            ]
+        },
+        "keras_version": "2.15.0",
+        "backend": "tensorflow"
+    },
+    "normalizzazione": "NoneScaler"
+}

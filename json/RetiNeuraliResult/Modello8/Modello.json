@@ -1,0 +1,159 @@
+{
+    "statistiche": {
+        "MAE_train": 3.906640306170578,
+        "MSE_train": 26.135771518571737,
+        "RMSE_train": 5.112315670864988,
+        "MAPE_train": 0.027497693659197128,
+        "R2_train": 0.5176548097701685,
+        "Spearman_train": 0.6665599826380417,
+        "MAE_test": 3.889825622783633,
+        "MSE_test": 25.584677009869566,
+        "RMSE_test": 5.058129793695449,
+        "MAPE_test": 0.027411777066633596,
+        "R2_test": 0.5355261187507208,
+        "Spearman_test": 0.671563671568382
+    },
+    "modello": {
+        "class_name": "Sequential",
+        "config": {
+            "name": "sequential_12",
+            "layers": [
+                {
+                    "module": "keras.layers",
+                    "class_name": "InputLayer",
+                    "config": {
+                        "batch_input_shape": [
+                            null,
+                            4
+                        ],
+                        "dtype": "float32",
+                        "sparse": false,
+                        "ragged": false,
+                        "name": "dense_41_input"
+                    },
+                    "registered_name": null
+                },
+                {
+                    "module": "keras.layers",
+                    "class_name": "Dense",
+                    "config": {
+                        "name": "dense_41",
+                        "trainable": true,
+                        "dtype": "float32",
+                        "batch_input_shape": [
+                            null,
+                            4
+                        ],
+                        "units": 4,
+                        "activation": "linear",
+                        "use_bias": true,
+                        "kernel_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "GlorotUniform",
+                            "config": {
+                                "seed": null
+                            },
+                            "registered_name": null
+                        },
+                        "bias_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "Zeros",
+                            "config": {},
+                            "registered_name": null
+                        },
+                        "kernel_regularizer": null,
+                        "bias_regularizer": null,
+                        "activity_regularizer": null,
+                        "kernel_constraint": null,
+                        "bias_constraint": null
+                    },
+                    "registered_name": null,
+                    "build_config": {
+                        "input_shape": [
+                            null,
+                            4
+                        ]
+                    }
+                },
+                {
+                    "module": "keras.layers",
+                    "class_name": "Dense",
+                    "config": {
+                        "name": "dense_42",
+                        "trainable": true,
+                        "dtype": "float32",
+                        "units": 64,
+                        "activation": "tanh",
+                        "use_bias": true,
+                        "kernel_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "GlorotUniform",
+                            "config": {
+                                "seed": null
+                            },
+                            "registered_name": null
+                        },
+                        "bias_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "Zeros",
+                            "config": {},
+                            "registered_name": null
+                        },
+                        "kernel_regularizer": null,
+                        "bias_regularizer": null,
+                        "activity_regularizer": null,
+                        "kernel_constraint": null,
+                        "bias_constraint": null
+                    },
+                    "registered_name": null,
+                    "build_config": {
+                        "input_shape": [
+                            null,
+                            4
+                        ]
+                    }
+                },
+                {
+                    "module": "keras.layers",
+                    "class_name": "Dense",
+                    "config": {
+                        "name": "dense_43",
+                        "trainable": true,
+                        "dtype": "float32",
+                        "units": 1,
+                        "activation": "linear",
+                        "use_bias": true,
+                        "kernel_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "GlorotUniform",
+                            "config": {
+                                "seed": null
+                            },
+                            "registered_name": null
+                        },
+                        "bias_initializer": {
+                            "module": "keras.initializers",
+                            "class_name": "Zeros",
+                            "config": {},
+                            "registered_name": null
+                        },
+                        "kernel_regularizer": null,
+                        "bias_regularizer": null,
+                        "activity_regularizer": null,
+                        "kernel_constraint": null,
+                        "bias_constraint": null
+                    },
+                    "registered_name": null,
+                    "build_config": {
+                        "input_shape": [
+                            null,
+                            64
+                        ]
+                    }
+                }
+            ]
+        },
+        "keras_version": "2.15.0",
+        "backend": "tensorflow"
+    }
+}

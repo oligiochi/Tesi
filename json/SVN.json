@@ -1,0 +1,60 @@
+{
+    "Iper-Parametri_Ottimizati": [
+        {
+            "grid_search": 1,
+            "scaler": "QuantileTransformer",
+            "C_(cost)": 10.0,
+            "epsilon": 0.5,
+            "Gamma": "scale",
+            "R^2": 0.7703975898126755,
+            "MSE": 12.433229438167036
+        },
+        {
+            "grid_search": 2,
+            "scaler": "QuantileTransformer",
+            "C": 62.0,
+            "epsilon": 1.5,
+            "Gamma": "scale",
+            "R^2": 0.7942452625502923,
+            "MSE": 11.142244921708633
+        },
+        {
+            "grid_search": 3,
+            "scaler": "PowerTransformer",
+            "C": 62.0,
+            "epsilon": 1.5,
+            "gamma": "scale",
+            "R^2": 0.7987103300262703,
+            "MSE": 10.89909430842753
+        },
+        {
+            "grid_search": 4,
+            "scaler": "PowerTransformer",
+            "C": 62.0,
+            "epsilon": 1.5,
+            "gamma": "auto",
+            "R^2": 0.7987105264413928,
+            "MSE": 10.899084045675787
+        },
+        {
+            "grid_search": 4,
+            "scaler": "PowerTransformer",
+            "C": 62.0,
+            "epsilon": 1.5,
+            "gamma": "auto",
+            "kernel": "rbf",
+            "R^2": 0.7987105264413928,
+            "MSE": 10.899084045675787
+        },
+        {
+            "grid_search": 4,
+            "scaler": "PowerTransformer",
+            "C": 62.0,
+            "epsilon": 1.5,
+            "gamma": "auto",
+            "R^2": 0.7987105264413928,
+            "MSE": 10.899084045675787
+        }
+    ],
+    "number_of_search": 4
+}

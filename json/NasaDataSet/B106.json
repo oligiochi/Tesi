@@ -1,0 +1,684 @@
+{
+    "Channel1": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_1/B106_pt_1/Channel1.mat",
+            "relativo": "DataSetNasa/B106_pt_1/B106_pt_1/Channel1.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel2": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_1/B106_pt_1/Channel2.mat",
+            "relativo": "DataSetNasa/B106_pt_1/B106_pt_1/Channel2.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel3": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_1/B106_pt_1/Channel3.mat",
+            "relativo": "DataSetNasa/B106_pt_1/B106_pt_1/Channel3.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel4": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_1/B106_pt_1/Channel4.mat",
+            "relativo": "DataSetNasa/B106_pt_1/B106_pt_1/Channel4.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel5": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_1/B106_pt_1/Channel5.mat",
+            "relativo": "DataSetNasa/B106_pt_1/B106_pt_1/Channel5.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel6": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_1/B106_pt_1/Channel6.mat",
+            "relativo": "DataSetNasa/B106_pt_1/B106_pt_1/Channel6.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel7": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_2/B106_pt_2/Channel7.mat",
+            "relativo": "DataSetNasa/B106_pt_2/B106_pt_2/Channel7.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel8": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_2/B106_pt_2/Channel8.mat",
+            "relativo": "DataSetNasa/B106_pt_2/B106_pt_2/Channel8.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel9": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_2/B106_pt_2/Channel9.mat",
+            "relativo": "DataSetNasa/B106_pt_2/B106_pt_2/Channel9.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel10": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_2/B106_pt_2/Channel10.mat",
+            "relativo": "DataSetNasa/B106_pt_2/B106_pt_2/Channel10.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel11": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_2/B106_pt_2/Channel11.mat",
+            "relativo": "DataSetNasa/B106_pt_2/B106_pt_2/Channel11.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel12": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_2/B106_pt_2/Channel12.mat",
+            "relativo": "DataSetNasa/B106_pt_2/B106_pt_2/Channel12.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel13": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_3/B106_pt_3/Channel13.mat",
+            "relativo": "DataSetNasa/B106_pt_3/B106_pt_3/Channel13.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel14": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_3/B106_pt_3/Channel14.mat",
+            "relativo": "DataSetNasa/B106_pt_3/B106_pt_3/Channel14.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel15": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_3/B106_pt_3/Channel15.mat",
+            "relativo": "DataSetNasa/B106_pt_3/B106_pt_3/Channel15.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel16": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_3/B106_pt_3/Channel16.mat",
+            "relativo": "DataSetNasa/B106_pt_3/B106_pt_3/Channel16.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel17": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_3/B106_pt_3/Channel17.mat",
+            "relativo": "DataSetNasa/B106_pt_3/B106_pt_3/Channel17.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel18": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_3/B106_pt_3/Channel18.mat",
+            "relativo": "DataSetNasa/B106_pt_3/B106_pt_3/Channel18.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel19": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_4/B106_pt_4/Channel19.mat",
+            "relativo": "DataSetNasa/B106_pt_4/B106_pt_4/Channel19.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel20": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_4/B106_pt_4/Channel20.mat",
+            "relativo": "DataSetNasa/B106_pt_4/B106_pt_4/Channel20.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel21": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_4/B106_pt_4/Channel21.mat",
+            "relativo": "DataSetNasa/B106_pt_4/B106_pt_4/Channel21.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel22": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_4/B106_pt_4/Channel22.mat",
+            "relativo": "DataSetNasa/B106_pt_4/B106_pt_4/Channel22.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel23": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_4/B106_pt_4/Channel23.mat",
+            "relativo": "DataSetNasa/B106_pt_4/B106_pt_4/Channel23.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel24": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_4/B106_pt_4/Channel24.mat",
+            "relativo": "DataSetNasa/B106_pt_4/B106_pt_4/Channel24.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel25": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_5/B106_pt_5/Channel25.mat",
+            "relativo": "DataSetNasa/B106_pt_5/B106_pt_5/Channel25.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel26": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_5/B106_pt_5/Channel26.mat",
+            "relativo": "DataSetNasa/B106_pt_5/B106_pt_5/Channel26.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel27": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_5/B106_pt_5/Channel27.mat",
+            "relativo": "DataSetNasa/B106_pt_5/B106_pt_5/Channel27.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel28": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_5/B106_pt_5/Channel28.mat",
+            "relativo": "DataSetNasa/B106_pt_5/B106_pt_5/Channel28.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel29": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_5/B106_pt_5/Channel29.mat",
+            "relativo": "DataSetNasa/B106_pt_5/B106_pt_5/Channel29.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel30": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_5/B106_pt_5/Channel30.mat",
+            "relativo": "DataSetNasa/B106_pt_5/B106_pt_5/Channel30.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel31": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_6/B106_pt_6/Channel31.mat",
+            "relativo": "DataSetNasa/B106_pt_6/B106_pt_6/Channel31.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel32": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_6/B106_pt_6/Channel32.mat",
+            "relativo": "DataSetNasa/B106_pt_6/B106_pt_6/Channel32.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel33": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_6/B106_pt_6/Channel33.mat",
+            "relativo": "DataSetNasa/B106_pt_6/B106_pt_6/Channel33.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel34": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_6/B106_pt_6/Channel34.mat",
+            "relativo": "DataSetNasa/B106_pt_6/B106_pt_6/Channel34.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel35": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_6/B106_pt_6/Channel35.mat",
+            "relativo": "DataSetNasa/B106_pt_6/B106_pt_6/Channel35.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel36": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_6/B106_pt_6/Channel36.mat",
+            "relativo": "DataSetNasa/B106_pt_6/B106_pt_6/Channel36.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel37": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_7/B106_pt_7/Channel37.mat",
+            "relativo": "DataSetNasa/B106_pt_7/B106_pt_7/Channel37.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel38": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_7/B106_pt_7/Channel38.mat",
+            "relativo": "DataSetNasa/B106_pt_7/B106_pt_7/Channel38.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel39": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_7/B106_pt_7/Channel39.mat",
+            "relativo": "DataSetNasa/B106_pt_7/B106_pt_7/Channel39.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel40": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_7/B106_pt_7/Channel40.mat",
+            "relativo": "DataSetNasa/B106_pt_7/B106_pt_7/Channel40.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel41": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_7/B106_pt_7/Channel41.mat",
+            "relativo": "DataSetNasa/B106_pt_7/B106_pt_7/Channel41.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel42": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_7/B106_pt_7/Channel42.mat",
+            "relativo": "DataSetNasa/B106_pt_7/B106_pt_7/Channel42.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel43": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_8/B106_pt_8/Channel43.mat",
+            "relativo": "DataSetNasa/B106_pt_8/B106_pt_8/Channel43.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel44": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_8/B106_pt_8/Channel44.mat",
+            "relativo": "DataSetNasa/B106_pt_8/B106_pt_8/Channel44.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel45": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_8/B106_pt_8/Channel45.mat",
+            "relativo": "DataSetNasa/B106_pt_8/B106_pt_8/Channel45.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel46": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_8/B106_pt_8/Channel46.mat",
+            "relativo": "DataSetNasa/B106_pt_8/B106_pt_8/Channel46.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel47": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_8/B106_pt_8/Channel47.mat",
+            "relativo": "DataSetNasa/B106_pt_8/B106_pt_8/Channel47.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel48": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_8/B106_pt_8/Channel48.mat",
+            "relativo": "DataSetNasa/B106_pt_8/B106_pt_8/Channel48.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel49": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_9/B106_pt_9/Channel49.mat",
+            "relativo": "DataSetNasa/B106_pt_9/B106_pt_9/Channel49.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel50": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_9/B106_pt_9/Channel50.mat",
+            "relativo": "DataSetNasa/B106_pt_9/B106_pt_9/Channel50.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel51": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_9/B106_pt_9/Channel51.mat",
+            "relativo": "DataSetNasa/B106_pt_9/B106_pt_9/Channel51.mat"
+        },
+        "tempoApertura": "0.14 secondi"
+    },
+    "Channel52": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_9/B106_pt_9/Channel52.mat",
+            "relativo": "DataSetNasa/B106_pt_9/B106_pt_9/Channel52.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel53": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_9/B106_pt_9/Channel53.mat",
+            "relativo": "DataSetNasa/B106_pt_9/B106_pt_9/Channel53.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel54": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_9/B106_pt_9/Channel54.mat",
+            "relativo": "DataSetNasa/B106_pt_9/B106_pt_9/Channel54.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel55": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_10/B106_pt_10/Channel55.mat",
+            "relativo": "DataSetNasa/B106_pt_10/B106_pt_10/Channel55.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel56": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_10/B106_pt_10/Channel56.mat",
+            "relativo": "DataSetNasa/B106_pt_10/B106_pt_10/Channel56.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel57": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_10/B106_pt_10/Channel57.mat",
+            "relativo": "DataSetNasa/B106_pt_10/B106_pt_10/Channel57.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel58": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_10/B106_pt_10/Channel58.mat",
+            "relativo": "DataSetNasa/B106_pt_10/B106_pt_10/Channel58.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel59": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_10/B106_pt_10/Channel59.mat",
+            "relativo": "DataSetNasa/B106_pt_10/B106_pt_10/Channel59.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel60": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_10/B106_pt_10/Channel60.mat",
+            "relativo": "DataSetNasa/B106_pt_10/B106_pt_10/Channel60.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel61": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_10/B106_pt_10/Channel61.mat",
+            "relativo": "DataSetNasa/B106_pt_10/B106_pt_10/Channel61.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    },
+    "Channel62": {
+        "shape": [
+            61439999,
+            1
+        ],
+        "paths": {
+            "assoluto": "/media/ailab/RAID0/giovannioliverio/DataSet2/DataSetNasa/B106_pt_10/B106_pt_10/Channel62.mat",
+            "relativo": "DataSetNasa/B106_pt_10/B106_pt_10/Channel62.mat"
+        },
+        "tempoApertura": "0.13 secondi"
+    }
+}

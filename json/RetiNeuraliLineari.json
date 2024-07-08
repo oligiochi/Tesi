@@ -1,0 +1,307 @@
+{
+    "epochs": 400,
+    "batch_size": 16,
+    "NumeroModelli": 57,
+    "Modelli": [
+        {
+            "posizione Modello0": "../json/RetiNeuraliResult/Modello0",
+            "status": "questo uso swift"
+        },
+        {
+            "posizione Modello1": "../json/RetiNeuraliResult/Modello1"
+        },
+        {
+            "posizione Modello2": "../json/RetiNeuraliResult/Modello2"
+        },
+        {
+            "posizione Modello3": "../json/RetiNeuraliResult/Modello3"
+        },
+        {
+            "posizione Modello4": "../json/RetiNeuraliResult/Modello4"
+        },
+        {
+            "posizione Modello5": "../json/RetiNeuraliResult/Modello5"
+        },
+        {
+            "posizione Modello6": "../json/RetiNeuraliResult/Modello6"
+        },
+        {
+            "posizione Modello7": "../json/RetiNeuraliResult/Modello7",
+            "status": "tahn non va bene esempio, relu va meglio"
+        },
+        {
+            "posizione Modello8": "../json/RetiNeuraliResult/Modello8"
+        },
+        {
+            "posizione Modello9": "../json/RetiNeuraliResult/Modello9"
+        },
+        {
+            "posizione Modello10": "../json/RetiNeuraliResult/Modello10"
+        },
+        {
+            "posizione Modello11": "../json/RetiNeuraliResult/Modello11"
+        },
+        {
+            "posizione Modello12": "../json/RetiNeuraliResult/Modello12"
+        },
+        {
+            "posizione Modello13": "../json/RetiNeuraliResult/Modello13"
+        },
+        {
+            "posizione Modello14": "../json/RetiNeuraliResult/Modello14"
+        },
+        {
+            "posizione Modello15": "../json/RetiNeuraliResult/Modello15"
+        },
+        {
+            "posizione Modello16": "../json/RetiNeuraliResult/Modello16"
+        },
+        {
+            "posizione Modello17": "../json/RetiNeuraliResult/Modello17"
+        },
+        {
+            "posizione Modello18": "../json/RetiNeuraliResult/Modello18"
+        },
+        {
+            "posizione Modello19": "../json/RetiNeuraliResult/Modello19"
+        },
+        {
+            "posizione Modello20": "../json/RetiNeuraliResult/Modello20"
+        },
+        {
+            "posizione Modello21": "../json/RetiNeuraliResult/Modello21"
+        },
+        {
+            "posizione Modello22": "../json/RetiNeuraliResult/Modello22"
+        },
+        {
+            "posizione Modello23": "../json/RetiNeuraliResult/Modello23",
+            "status": "il miglire per ora"
+        },
+        {
+            "posizione Modello24": "../json/RetiNeuraliResult/Modello24"
+        },
+        {
+            "posizione Modello25": "../json/RetiNeuraliResult/Modello25"
+        },
+        {
+            "posizione Modello26": "../json/RetiNeuraliResult/Modello26"
+        },
+        {
+            "posizione Modello27": "../json/RetiNeuraliResult/Modello27"
+        },
+        {
+            "posizione Modello28": "../json/RetiNeuraliResult/Modello28"
+        },
+        {
+            "posizione Modello29": "../json/RetiNeuraliResult/Modello29"
+        },
+        {
+            "posizione Modello30": "../json/RetiNeuraliResult/Modello30"
+        },
+        {
+            "posizione Modello31": "../json/RetiNeuraliResult/Modello31"
+        },
+        {
+            "posizione Modello32": "../json/RetiNeuraliResult/Modello32"
+        },
+        {
+            "posizione Modello33": "../json/RetiNeuraliResult/Modello33"
+        },
+        {
+            "posizione Modello34": "../json/RetiNeuraliResult/Modello34"
+        },
+        {
+            "posizione Modello35": "../json/RetiNeuraliResult/Modello35"
+        },
+        {
+            "posizione Modello36": "../json/RetiNeuraliResult/Modello36"
+        },
+        {
+            "posizione Modello37": "../json/RetiNeuraliResult/Modello37"
+        },
+        {
+            "posizione Modello38": "../json/RetiNeuraliResult/Modello38"
+        },
+        {
+            "posizione Modello39": "../json/RetiNeuraliResult/Modello39"
+        },
+        {
+            "posizione Modello40": "../json/RetiNeuraliResult/Modello40"
+        },
+        {
+            "posizione Modello41": "../json/RetiNeuraliResult/Modello41"
+        },
+        {
+            "posizione Modello42": "../json/RetiNeuraliResult/Modello42"
+        },
+        {
+            "posizione Modello43": "../json/RetiNeuraliResult/Modello43"
+        },
+        {
+            "posizione Modello44": "../json/RetiNeuraliResult/Modello44"
+        },
+        {
+            "posizione Modello45": "../json/RetiNeuraliResult/Modello45"
+        },
+        {
+            "posizione Modello46": "../json/RetiNeuraliResult/Modello46"
+        },
+        {
+            "posizione Modello47": "../json/RetiNeuraliResult/Modello47"
+        },
+        {
+            "posizione Modello48": "../json/RetiNeuraliResult/Modello48"
+        },
+        {
+            "posizione Modello49": "../json/RetiNeuraliResult/Modello49"
+        },
+        {
+            "posizione Modello50": "../json/RetiNeuraliResult/Modello50"
+        },
+        {
+            "posizione Modello51": "../json/RetiNeuraliResult/Modello51"
+        },
+        {
+            "posizione Modello52": "../json/RetiNeuraliResult/Modello52"
+        },
+        {
+            "posizione Modello53": "../json/RetiNeuraliResult/Modello53"
+        },
+        {
+            "posizione Modello54": "../json/RetiNeuraliResult/Modello54"
+        },
+        {
+            "posizione Modello55": "../json/RetiNeuraliResult/Modello55"
+        },
+        {
+            "posizione Modello56": "../json/RetiNeuraliResult/Modello56"
+        }
+    ],
+    "GridSearchCV": [
+        {
+            "best_score": 0.5424844437740526,
+            "best_params": {
+                "model__activation": "elu",
+                "model__neurons": 32,
+                "model__num_layers": 3,
+                "model__optimizer": "Adam"
+            }
+        },
+        {
+            "best_score": 0.49705136218896384,
+            "best_params": {
+                "model__activation": "leaky_relu",
+                "model__neurons": 16,
+                "model__num_layers": 1,
+                "model__optimizer": "Lion"
+            },
+            "statistics": {
+                "MAE_train": 4.836089958217646,
+                "MSE_train": 38.27148375554029,
+                "RMSE_train": 6.186395053303683,
+                "MAPE_train": 0.0338806239821049,
+                "R2_train": 0.2936858167999171,
+                "Spearman_train": 0.590565907568428,
+                "MAE_test": 4.851892122480921,
+                "MSE_test": 38.08252327435149,
+                "RMSE_test": 6.171103894308659,
+                "MAPE_test": 0.034018895148156564,
+                "R2_test": 0.3086355013909078,
+                "Spearman_test": 0.5998999098906027
+            }
+        },
+        {
+            "best_score": 728.5062661212595,
+            "best_params": {
+                "model__activation": "relu",
+                "model__neurons": 16,
+                "model__num_layers": 1,
+                "model__optimizer": "RMSprop"
+            },
+            "statistics": {
+                "MAE_train": 5.657948910386011,
+                "MSE_train": 53.41112243304359,
+                "RMSE_train": 7.308291348396257,
+                "MAPE_train": 0.041269753448831804,
+                "R2_train": 0.014278266396357653,
+                "Spearman_train": 0.5169562341280313,
+                "MAE_test": 5.740911451042982,
+                "MSE_test": 54.796445259092636,
+                "RMSE_test": 7.402462107913328,
+                "MAPE_test": 0.04193706896986042,
+                "R2_test": 0.0052046543977779525,
+                "Spearman_test": 0.5154113483734276
+            }
+        },
+        {
+            "best_score": 0.08837494298257724,
+            "best_params": {
+                "model__activation": "sigmoid",
+                "model__neurons": 16,
+                "model__num_layers": 3,
+                "model__optimizer": "SGD"
+            },
+            "statistics": {
+                "MAE_train": 5.872343318468125,
+                "MSE_train": 55.74766284791142,
+                "RMSE_train": 7.466435752613922,
+                "MAPE_train": 0.04234500574122116,
+                "R2_train": -0.028843438661718457,
+                "Spearman_train": 0.05273235841890195,
+                "MAE_test": 5.954298370126621,
+                "MSE_test": 56.96424893523856,
+                "RMSE_test": 7.547466391792583,
+                "MAPE_test": 0.04300706541352264,
+                "R2_test": -0.03415047159648554,
+                "Spearman_test": 0.046388335670842384
+            }
+        },
+        {
+            "best_score": 0.512354216999734,
+            "best_params": {
+                "model__activation": "softplus",
+                "model__neurons": 32,
+                "model__num_layers": 1,
+                "model__optimizer": "Adam"
+            },
+            "statistics": {
+                "MAE_train": 8.769191820718458,
+                "MSE_train": 191.8488274268898,
+                "RMSE_train": 13.850950416014411,
+                "MAPE_train": 0.06091920991135481,
+                "R2_train": -2.5406400417465176,
+                "Spearman_train": 0.3132687053381754,
+                "MAE_test": 8.835985855038373,
+                "MSE_test": 194.5198435219947,
+                "RMSE_test": 13.947037087567907,
+                "MAPE_test": 0.061410857621506644,
+                "R2_test": -2.5313866446627435,
+                "Spearman_test": 0.3125151036623896
+            }
+        },
+        {
+            "best_score": 0.5595001742308465,
+            "best_params": {
+                "model__activation": "elu",
+                "model__neurons": 32,
+                "model__num_layers": 3,
+                "model__optimizer": "RMSprop"
+            },
+            "statistics": {
+                "MAE_train": 3.6467530884636497,
+                "MSE_train": 24.920365481696674,
+                "RMSE_train": 4.992030196392713,
+                "MAPE_train": 0.025658582506206864,
+                "R2_train": 0.5400855712132125,
+                "Spearman_train": 0.7300965810025312,
+                "MAE_test": 3.6298982446231958,
+                "MSE_test": 24.2065576010945,
+                "RMSE_test": 4.920016016345323,
+                "MAPE_test": 0.02556548062527363,
+                "R2_test": 0.5605450185543726,
+                "Spearman_test": 0.7335664627151484
+            }
+        }
+    ]
+}

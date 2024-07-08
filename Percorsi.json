@@ -1,0 +1,6 @@
+{
+    "DataSet": "DataSet/Dati_VEGA.mat",
+    "SensoriInfo": "DataSet/SensoriInfoRuotati.csv",
+    "SVNjson": "json/SVN.json",
+     "ReteNeuralejson": "json/RetiNeuraliLineari.json"
+}
